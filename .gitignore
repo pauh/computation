@@ -1,0 +1,9 @@
+# Ignore tempfiles.
+/tmp
+
+# Ignore generated .deb files.
+*.deb
+
+# Ignore editor swap files.
+*.swp
+*~
